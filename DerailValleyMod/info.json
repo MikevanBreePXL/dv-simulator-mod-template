@@ -1,0 +1,9 @@
+{
+  "Id": "DV-ModTemplate",
+  "DisplayName": "ModTemplate by NAO",
+  "Author": "NotAnOption",
+  "Version": "1.0.0",
+  "GameVersion": "1.0.0",
+  "AssemblyName": "dvModExportFileName.dll",
+  "EntryMethod": "DerailValleyMod.Main.Load"
+}
