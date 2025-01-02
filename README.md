@@ -34,7 +34,7 @@ A full IDE is not required, but strongly recommended. This template is made and 
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/community/)
 - [Jetbrains Rider](https://www.jetbrains.com/rider/)
 
-Visual Studio Code is also supported with numerous extensions, such as [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) or [C# for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp).
+Visual Studio Code is also supported with numerous extensions, such as [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit).
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 <br>
