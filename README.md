@@ -2,10 +2,14 @@
 
 This is a basic start that will help you get started with a mod for the game Derail Valley Simulator.
 
-<br>
+The template is made for UnityModManager, this modloader is used since the "Simulator" update (Build 93) and is the only modloader that is compatible with the game.
+
+If you're looking for a modding guide for older versions of the game, prior to "Simulator", check out [this guide, using BepInEx](https://dv-modding-guide.readthedocs.io/en/latest/) by Insprill. 
+
+## Development setup
 
 <details>
-    <summary>Table of Contents (for development)</summary>
+    <summary>Table of Contents</summary>
     <ol>
         <li><a href="#1-download-a-code-editor">Download a code editor</a>
         </li>
@@ -23,8 +27,6 @@ This is a basic start that will help you get started with a mod for the game Der
 </details>
 
 <br>
-
-## Development setup
 
 ### 1. Download a code editor
 
